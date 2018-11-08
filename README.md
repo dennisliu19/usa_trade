@@ -6,9 +6,12 @@ This repo contains US Trade Data from World Bank from 1991 to 2016.
 
  - xxxxUSA.xlsx is the original files from WITS on World Bank  website. https://wits.worldbank.org/Default.aspx?lang=en
  - Data Combination.R contains script to extract data from each years workbook and combine them together
- - USATradeData.csv is the final worksheet contains data from 1996 to 2016. 
- - Initial Plot contains draft of intentional plot. 
-
+ - USATradeData.csv is the first version  data from 1996 to 2016. 
+ - Initial Plot contains draft of intentional plot.
+ - continent.csv and continent2.csv contains data for region classification
+ - GDP.csv contains GDP data from world bank database. 
+ - gdptrade.csv is the latest clean data contains region, gdp information.
+ 
 ## Data Cleaning Process
 
 ### Step 1
